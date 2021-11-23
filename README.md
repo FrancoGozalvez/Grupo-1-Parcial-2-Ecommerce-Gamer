@@ -1,8 +1,15 @@
 # Grupo-1 Parcial-2 EcommerceGamer
 INTEGRANTES: LUCAS EXEQUIEL MORENO, CARLA PIRIZ, FRANCO GOZALVEZZ
 
+GENERACION
 
-GENERACIÓN
+npx sequelize model:generate --name Domicilio --attributes calle:string,numero:string,codigo_postal:string,localidad:string,provincia:string
+
+npx sequelize model:generate --name Puntodeventa --attributes domicilio:string,cuit:string,ingresos_brutos:string
+
+npx sequelize model:generate --name Marca --attributes nombre:string
+
+npx sequelize model:generate --name Categoria --attributes nombre:string
 
 npx sequelize model:generate --name Usuario --attributes name:string,dni:string,email:string,contraseña:string,usuario:string,domicilioId:integer
 
