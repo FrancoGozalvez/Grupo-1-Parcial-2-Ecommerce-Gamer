@@ -1,2 +1,2 @@
-# Grupo-1-Parcial-2-Ecommerce-Gamer
- Parcial 2 Prog 3
+# Grupo-1 Parcial-2 EcommerceGamer
+INTEGRANTES: LUCAS EXEQUIEL MORENO, CARLA PIRIZ, FRANCO GOZALVEZZ
